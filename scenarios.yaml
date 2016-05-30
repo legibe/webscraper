@@ -1,0 +1,36 @@
+ripe fruits:
+    type: parent
+    name: product
+    tag_name: div
+    attr:
+      class_: "product "
+    inner:
+      - type: parent
+        name: productInfo
+        tag_name: div
+        attr:
+          class_: productInfo
+        inner:
+          - type: child
+            name: link
+            tag_name: a
+            attr: {}
+      - type: child
+        name: price
+        tag_name: p
+        attr:
+          class_: pricePerUnit
+
+
+description:
+    type: sibling
+    name: itemHeader
+    tag_name: h3
+    attr:
+      class_: productDataItemHeader
+    contents: Description
+    inner:
+      - type: child
+        name: description
+        tag_name: p
+        attr: {}

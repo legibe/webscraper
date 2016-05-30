@@ -1,0 +1,47 @@
+{
+    "total": 15.1, 
+    "results": [
+        {
+            "size": "38.27kb", 
+            "description": "Apricots", 
+            "unit_price": 3.5, 
+            "title": "Sainsbury's Apricot Ripe & Ready x5"
+        }, 
+        {
+            "size": "38.67kb", 
+            "description": "Avocados", 
+            "unit_price": 1.5, 
+            "title": "Sainsbury's Avocado Ripe & Ready XL Loose 300g"
+        }, 
+        {
+            "size": "43.44kb", 
+            "description": "Avocados", 
+            "unit_price": 1.8, 
+            "title": "Sainsbury's Avocado, Ripe & Ready x2"
+        }, 
+        {
+            "size": "38.68kb", 
+            "description": "Avocados", 
+            "unit_price": 3.2, 
+            "title": "Sainsbury's Avocados, Ripe & Ready x4"
+        }, 
+        {
+            "size": "38.54kb", 
+            "description": "Conference", 
+            "unit_price": 1.5, 
+            "title": "Sainsbury's Conference Pears, Ripe & Ready x4 (minimum)"
+        }, 
+        {
+            "size": "38.56kb", 
+            "description": "Gold Kiwi", 
+            "unit_price": 1.8, 
+            "title": "Sainsbury's Golden Kiwi x4"
+        }, 
+        {
+            "size": "38.98kb", 
+            "description": "Kiwi", 
+            "unit_price": 1.8, 
+            "title": "Sainsbury's Kiwi Fruit, Ripe & Ready x4"
+        }
+    ]
+}
